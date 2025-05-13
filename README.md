@@ -18,7 +18,3 @@ AI-Powered-Theme-Generator_Frontend-main/
 #Usage
 1. **Clone or download the repository**.
 2. Open the `index.html` file in your browser to view the project.
-
-```bash
-git clone https://github.com/tushitapandey721/AI-Powered-Theme-Generator_Frontend-main
-cd AI-Powered-Theme-Generator_Frontend
